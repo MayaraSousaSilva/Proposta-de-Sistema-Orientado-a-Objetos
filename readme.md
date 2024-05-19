@@ -24,6 +24,6 @@ centro universitário.
 * Fornecedor - consultar entregas e novos pedidos.
 
 ## Home
-![Imagem I - HOME](https://drive.google.com/drive/folders/1PcGB4-4WwtI946vQmJZ22E6LHseFPsWS)
+![Imagem I - HOME](https://raw.githubusercontent.com/MayaraSousaSilva/Proposta-de-Sistema-Orientado-a-Objetos/master/Imagens)
 
 Imagem 1 - Tela de inicio onde mostra os produtos oferecedos.
