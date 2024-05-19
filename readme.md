@@ -65,7 +65,7 @@ Apresentação de um sistema criado para gestão de dados de um centro universit
 <img src="https://github.com/MayaraSousaSilva/Proposta-de-Sistema-Orientado-a-Objetos/assets/155500484/25274136-0fcc-41df-912c-dfedd9606d7e" width="600px" />
 </div>
 
-**Imagem 6** - Tela de consulta de horarios e para lançar notas.
+**Imagem 6** - Tela de consulta de disciplinas e ver notas.
 
 ### Fornecedor 
 <div align="left">
