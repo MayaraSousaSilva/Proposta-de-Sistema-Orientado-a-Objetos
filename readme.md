@@ -10,7 +10,7 @@ O grupo contem 7 integrantes:
 - Mayara Sousa Silva
 - Maycon Mycklin da Silva Souza
 
-## Descroção/Objetivo
+## Descrição/Objetivo
 Apresentação de um sistema criado para gestão de dados de um centro universitário.
 
 ## Telas 
