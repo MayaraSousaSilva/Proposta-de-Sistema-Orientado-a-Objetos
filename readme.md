@@ -55,7 +55,7 @@ centro universitário.
 
 ### Professor 
 <div align="left">
-<img src="github.com/MayaraSousaSilva/Proposta-de-Sistema-Orientado-a-Objetos/assets/155500484/a238dc47-752d-4e76-8b69-8c28d83a875d" width="600px" />
+<img src="https://github.com/MayaraSousaSilva/Proposta-de-Sistema-Orientado-a-Objetos/assets/155500484/6fbff6e9-32ed-4cc2-829f-485b5f99e331" width="600px" />
 </div>
 
 **Imagem 5** - Tela de consulta de horarios e para lançar notas.
@@ -69,21 +69,21 @@ centro universitário.
 
 ### Fornecedor 
 <div align="left">
-<img src="github.com/MayaraSousaSilva/Proposta-de-Sistema-Orientado-a-Objetos/assets/155500484/c4666bf6-00af-459c-bd36-9cca385bf9d3" />
+<img src="github.com/MayaraSousaSilva/Proposta-de-Sistema-Orientado-a-Objetos/assets/155500484/c4666bf6-00af-459c-bd36-9cca385bf9d3" width="600px" />
 </div>
 
 **Imagem 7** - Tela de consulta do fornecedor.
 
 #### Fornecedor - Consulta de Entregas
 <div align="left">
-<img src="https://github.com/MayaraSousaSilva/Proposta-de-Sistema-Orientado-a-Objetos/assets/155500484/4ef66aa4-235a-4e19-851a-d80e8fe38733" />
+<img src="https://github.com/MayaraSousaSilva/Proposta-de-Sistema-Orientado-a-Objetos/assets/155500484/4ef66aa4-235a-4e19-851a-d80e8fe38733" width="600px" />
 </div>
 
 **Imagem 8** - Tela de consulta do fornecedor.
 
 #### Fornecedor - Consulta de Pedidos
 <div align="left">
-<img src="https://github.com/MayaraSousaSilva/Proposta-de-Sistema-Orientado-a-Objetos/assets/155500484/1f8fdd17-edeb-47c6-a055-a57d44ac3b30" />
+<img src="https://github.com/MayaraSousaSilva/Proposta-de-Sistema-Orientado-a-Objetos/assets/155500484/1f8fdd17-edeb-47c6-a055-a57d44ac3b30" width="600px" />
 </div>
 
 **Imagem 9** - Tela de consulta de novos pedidos.
