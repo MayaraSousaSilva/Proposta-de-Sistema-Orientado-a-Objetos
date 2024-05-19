@@ -25,5 +25,6 @@ centro universitário.
 
 ## Home
 ![HOME](https://github.com/MayaraSousaSilva/Proposta-de-Sistema-Orientado-a-Objetos/assets/155500484/4121813b-3e7d-46f3-a9a4-cf0e60f144fb)
+img src="https://github.com/MayaraSousaSilva/Proposta-de-Sistema-Orientado-a-Objetos/assets/155500484/4121813b-3e7d-46f3-a9a4-cf0e60f144fb" width="100px"
 
 Imagem 1 - Tela de inicio onde mostra os produtos oferecedos.
