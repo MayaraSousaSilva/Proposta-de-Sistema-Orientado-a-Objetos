@@ -74,14 +74,14 @@ centro universitário.
 
 **Imagem 7** - Tela de consulta do fornecedor.
 
-#### Fornecedor - Consulta de Entregas
+### Fornecedor - Consulta de Entregas
 <div align="left">
 <img src="https://github.com/MayaraSousaSilva/Proposta-de-Sistema-Orientado-a-Objetos/assets/155500484/4ef66aa4-235a-4e19-851a-d80e8fe38733" width="600px" />
 </div>
 
 **Imagem 8** - Tela de consulta do fornecedor.
 
-#### Fornecedor - Consulta de Pedidos
+### Fornecedor - Consulta de Pedidos
 <div align="left">
 <img src="https://github.com/MayaraSousaSilva/Proposta-de-Sistema-Orientado-a-Objetos/assets/155500484/1f8fdd17-edeb-47c6-a055-a57d44ac3b30" width="600px" />
 </div>
