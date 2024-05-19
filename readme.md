@@ -69,7 +69,7 @@ centro universitário.
 
 ### Fornecedor 
 <div align="left">
-<img src="github.com/MayaraSousaSilva/Proposta-de-Sistema-Orientado-a-Objetos/assets/155500484/c4666bf6-00af-459c-bd36-9cca385bf9d3" width="600px" />
+<img src="https://github.com/MayaraSousaSilva/Proposta-de-Sistema-Orientado-a-Objetos/assets/155500484/c4666bf6-00af-459c-bd36-9cca385bf9d3" width="600px" />
 </div>
 
 **Imagem 7** - Tela de consulta do fornecedor.
