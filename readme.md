@@ -23,16 +23,21 @@ centro universitário.
 * Aluno - consultar disciplinas e ver notas;
 * Fornecedor - consultar entregas e novos pedidos.
 
-## Home
+### Home
 <div align="left">
 <img src="https://github.com/MayaraSousaSilva/Proposta-de-Sistema-Orientado-a-Objetos/assets/155500484/3cba0808-4a82-4af2-a2d3-831d0ab14cca" width="600px" />
 </div>
 
 **Imagem 1** - Tela de inicio onde mostra os produtos oferecedos.
 
-## Login
+### Login
 <div align="left">
 <img src="https://github.com/MayaraSousaSilva/Proposta-de-Sistema-Orientado-a-Objetos/assets/155500484/d1d26dd9-0f00-4966-bf31-56ec50fbf0b3" width="600px" />
 </div>
 
 **Imagem 2** - Tela de login, permite acessar a área restrita do usuário
+
+### Cadastro de Usuário
+<div align="left">
+  <img src="https://raw.githubusercontent.com/MayaraSousaSilva/Proposta-de-Sistema-Orientado-a-Objetos/main/assets/155500484/3cba0808-4a82-4af2-a2d3-831d0ab14cca.png" width="600px" />
+</div>
