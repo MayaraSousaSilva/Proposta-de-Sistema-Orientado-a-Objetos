@@ -21,7 +21,7 @@ centro universitário.
 * Administrador - gerenciamento de cadastros, matriculas e realização de pedidos;
 * Professor - consultar horários e lançar notas;
 * Aluno - consultar disciplinas e ver notas;
-* Fornecedor -consultar informações do fornecedor;
+* Fornecedor - consultar informações do fornecedor;
 
   * Consulta de entregas;
   * Consulta de novos pedidos.
