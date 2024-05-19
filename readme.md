@@ -22,8 +22,9 @@ centro universitário.
 * Professor - consultar horários e lançar notas;
 * Aluno - consultar disciplinas e ver notas;
 * Fornecedor -consultar informações do fornecedor;
-      * Consulta de entregas;
-      * Consulta de novos pedidos.
+
+  * Consulta de entregas;
+  * Consulta de novos pedidos.
 
 ### Home
 <div align="left">
