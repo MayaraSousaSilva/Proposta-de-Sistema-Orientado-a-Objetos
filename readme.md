@@ -31,68 +31,75 @@ Apresentação de um sistema criado para gestão de dados de um centro universit
 </div>
 
 **Imagem 1** - Diagrama de casos de uso..
+
 ### Diagrama de UML
 
-### Home
 <div align="left">
 <img src="https://github.com/MayaraSousaSilva/Proposta-de-Sistema-Orientado-a-Objetos/assets/155500484/9ec2e4ae-d871-4c72-aff2-b2e56e69c25e" width="600px" />
 </div>
 
 **Imagem 2** - Diagrama de UML.
 
+### Home
+<div align="left">
+<img src="https://github.com/MayaraSousaSilva/Proposta-de-Sistema-Orientado-a-Objetos/assets/155500484/f15b4531-8e35-46fa-a511-6187e1c92b18" width="600px" />
+</div>
+
+**Imagem 3** - Produtos oferecidos pela empresa.
+
 ### Login
 <div align="left">
 <img src="https://github.com/MayaraSousaSilva/Proposta-de-Sistema-Orientado-a-Objetos/assets/155500484/d1d26dd9-0f00-4966-bf31-56ec50fbf0b3" width="600px" />
 </div>
 
-**Imagem 3** - Tela de login, permite acessar a área restrita do usuário.
+**Imagem 4** - Tela de login, permite acessar a área restrita do usuário.
 
 ### Cadastro de Usuário
 <div align="left">
 <img src="https://github.com/MayaraSousaSilva/Proposta-de-Sistema-Orientado-a-Objetos/assets/155500484/9e2c5120-7aae-41b6-9b02-1d217b91c668" width="600px" />
 </div>
 
-**Imagem 4** - Tela de cadastro para alunos e professores.
+**Imagem 5** - Tela de cadastro para alunos e professores.
 
 ### Administrador
 <div align="left">
 <img src="https://github.com/MayaraSousaSilva/Proposta-de-Sistema-Orientado-a-Objetos/assets/155500484/99ae59d9-b73f-4aad-ab0b-c40cb40e1450" width="600px" />
 </div>
 
-**Imagem 5** - Tela de gerenciamento de cadastros, matriculas e realização de pedidos.
+**Imagem 6** - Tela de gerenciamento de cadastros, matriculas e realização de pedidos.
 
 ### Professor 
 <div align="left">
 <img src="https://github.com/MayaraSousaSilva/Proposta-de-Sistema-Orientado-a-Objetos/assets/155500484/6fbff6e9-32ed-4cc2-829f-485b5f99e331" width="600px" />
 </div>
 
-**Imagem 6** - Tela de consulta de horarios e para lançar notas.
+**Imagem 7** - Tela de consulta de horarios e para lançar notas.
 
 ### Aluno
 <div align="left">
 <img src="https://github.com/MayaraSousaSilva/Proposta-de-Sistema-Orientado-a-Objetos/assets/155500484/25274136-0fcc-41df-912c-dfedd9606d7e" width="600px" />
 </div>
 
-**Imagem 7** - Tela de consulta de disciplinas e ver notas.
+**Imagem 8** - Tela de consulta de disciplinas e ver notas.
 
 ### Fornecedor 
 <div align="left">
 <img src="https://github.com/MayaraSousaSilva/Proposta-de-Sistema-Orientado-a-Objetos/assets/155500484/c4666bf6-00af-459c-bd36-9cca385bf9d3" width="600px" />
 </div>
 
-**Imagem 8** - Tela de consulta do fornecedor.
+**Imagem 9** - Tela de consulta do fornecedor.
 
 ### Fornecedor - Consulta de Entregas
 <div align="left">
 <img src="https://github.com/MayaraSousaSilva/Proposta-de-Sistema-Orientado-a-Objetos/assets/155500484/4ef66aa4-235a-4e19-851a-d80e8fe38733" width="600px" />
 </div>
 
-**Imagem 9** - Tela de consulta do fornecedor.
+**Imagem 10** - Tela de consulta do fornecedor.
 
 ### Fornecedor - Consulta de Pedidos
 <div align="left">
 <img src="https://github.com/MayaraSousaSilva/Proposta-de-Sistema-Orientado-a-Objetos/assets/155500484/1f8fdd17-edeb-47c6-a055-a57d44ac3b30" width="600px" />
 </div>
 
-**Imagem 10** - Tela de consulta de novos pedidos.
+**Imagem 11** - Tela de consulta de novos pedidos.
 
